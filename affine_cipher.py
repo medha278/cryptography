@@ -23,4 +23,4 @@ class affine_cipher(object):
 affine = affine_cipher()
 print(affine.encrypt('The National Institute of Engineering'))
 print(affine.decrypt('**Fre^efg456'))
-# The National Institute of Engineering,Mysore-560072
+
